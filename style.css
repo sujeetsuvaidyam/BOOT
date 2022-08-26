@@ -15,7 +15,6 @@
 
 .nav-logo {
     width: 140px;
-    margin: 20px;
 
 }
 
@@ -123,6 +122,27 @@
 }
 .p-m{
     padding-top: 20%;
+}
+.img-main{
+    display: flex;
+}
+.margin-top{
+    margin-top: 185px;
+}
+.margin-top1{
+    margin-top: 115px;
+}
+.btn1:hover{
+    background-color: yellow;
+}
+.maim3{
+    display: flex;
+    justify-content: center;
+}
+.bg-1{
+    width: 100%;
+    background-color: rgb(129, 129, 9);
+    height: 80px;
 }
 
 @media (max-width:768px) {
