@@ -186,10 +186,10 @@
     
     }
     .bg-1{
-        width: 95.7%;
+        /* width: 95.7%; */
     }
     .p-5{
-        padding: 0rem !important;
+        padding: 1rem !important;
     }
 }
 .img-col{
