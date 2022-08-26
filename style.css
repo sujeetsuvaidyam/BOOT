@@ -185,6 +185,12 @@
         margin-left:0% !important;
     
     }
+    .bg-1{
+        width: 95.7%;
+    }
+    .p-5{
+        padding: 0rem !important;
+    }
 }
 .img-col{
     margin-top: -110px; 
