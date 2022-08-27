@@ -210,4 +210,7 @@
         font-size: calc(2.275rem + .3vw);
 
     }
+    .navbar-nav{
+        margin-top: 6%;
+    }
 }
