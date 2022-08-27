@@ -131,6 +131,7 @@
 }
 .margin-top1{
     margin-top: 115px;
+    width: 100%;
 }
 .btn1:hover{
     background-color: yellow;
@@ -139,11 +140,15 @@
     display: flex;
     justify-content: center;
 }
-.bg-1{
+ .bg-1{
     width: 100%;
-    background-color: rgb(129, 129, 9);
-    height: 80px;
+    background-color:rgba(39, 11, 47, 0.67);
+    height: 80px; 
 }
+.img-col{
+    margin-top: -110px; 
+}
+
 
 @media (max-width:768px) {
     .body-ti {
@@ -166,6 +171,7 @@
 
     .body-title {
         margin-top: 60%;
+        font-size: 45px;
     }
 
     .carousel-inner {
@@ -191,7 +197,17 @@
     .p-5{
         padding: 1rem !important;
     }
-}
-.img-col{
-    margin-top: -110px; 
+    #sub-frame-error {
+        width: 44%;
+    }
+    .row{
+        --bs-gutter-x:-0.5rem
+    }
+    .p-m{
+        padding-top: 70%;
+    }
+    .h4{
+        font-size: calc(2.275rem + .3vw);
+
+    }
 }
