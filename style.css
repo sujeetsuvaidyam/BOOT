@@ -104,49 +104,58 @@
 }
 
 .b {
-    margin-left: 140px;
-    margin-top: -15%;
+    /* margin-left: 140px; */
+    /* margin-top: -15%; */
 }
 
 .paira {
-    margin-left: 140px;
+    /* margin-left: 140px; */
 }
 
 .brand1 {
     margin-top: 30%;
     /* margin-left: 10%; */
 }
-.black-img{
+
+.black-img {
     background-color: black;
     padding-bottom: 50px;
 }
-.p-m{
+
+.p-m {
     padding-top: 20%;
 }
-.img-main{
+
+.img-main {
     display: flex;
 }
-.margin-top{
+
+.margin-top {
     margin-top: 185px;
 }
-.margin-top1{
+
+.margin-top1 {
     margin-top: 115px;
     width: 100%;
 }
-.btn1:hover{
+
+.btn1:hover {
     background-color: yellow;
 }
-.maim3{
+
+.maim3 {
     display: flex;
     justify-content: center;
 }
- .bg-1{
+
+.bg-1 {
     width: 100%;
-    background-color:rgba(39, 11, 47, 0.67);
-    height: 80px; 
+    background-color: rgba(39, 11, 47, 0.67);
+    height: 80px;
 }
-.img-col{
-    margin-top: -110px; 
+
+.img-col {
+    margin-top: -110px;
 }
 
 
@@ -161,8 +170,8 @@
     }
 
     .nav-item {
-        background-color: rgb(67, 67, 101);
-        width: 100%;
+        /* background-color: rgb(67, 67, 101); */
+        /* width: 100%; */
     }
 
     .mt {
@@ -181,36 +190,54 @@
     .body2 {
         margin-top: 0%;
     }
-    .btn-1{
+
+    .btn-1 {
         margin-bottom: 10%;
     }
-    .logo-png{
+
+    .logo-png {
         width: 100%;
     }
-    .center-img{
-        margin-left:0% !important;
-    
+
+    .center-img {
+        margin-left: 0% !important;
+
     }
-    .bg-1{
+
+    .bg-1 {
         /* width: 95.7%; */
     }
-    .p-5{
+
+    .p-5 {
         padding: 1rem !important;
     }
+
     #sub-frame-error {
         width: 44%;
     }
-    .row{
-        --bs-gutter-x:-0.5rem
+
+    .row {
+        --bs-gutter-x: -0.5rem
     }
-    .p-m{
+
+    .p-m {
         padding-top: 70%;
     }
-    .h4{
+
+    .h4 {
         font-size: calc(2.275rem + .3vw);
 
     }
-    .navbar-nav{
+
+    .navbar-nav {
         margin-top: 6%;
+    }
+
+    .navbar-nav {
+        width: 100%;
+        background-color: blue;
+    }
+    .img-hotel{
+        margin-top: 0%;
     }
 }
