@@ -158,12 +158,6 @@
     .img-fluid {
         padding: 10px;
     }
-
-    .nav-item {
-        /* background-color: rgb(67, 67, 101); */
-        /* width: 100%; */
-    }
-
     .mt {
         margin-top: -11%;
     }
@@ -193,11 +187,6 @@
         margin-left: 0% !important;
 
     }
-
-    .bg-1 {
-        /* width: 95.7%; */
-    }
-
     .p-5 {
         padding: 1rem !important;
     }
@@ -219,8 +208,7 @@
 
     }
     .navbar-nav {
-        width: 100%;
-        background-color: blue;
+        background-color: rgb(67, 67, 101); 
         text-align: center;
 
     }
