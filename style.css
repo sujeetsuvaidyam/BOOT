@@ -102,16 +102,6 @@
     margin-top: 8%;
     margin-bottom: 64px;
 }
-
-.b {
-    /* margin-left: 140px; */
-    /* margin-top: -15%; */
-}
-
-.paira {
-    /* margin-left: 140px; */
-}
-
 .brand1 {
     margin-top: 30%;
     /* margin-left: 10%; */
@@ -228,16 +218,16 @@
         font-size: calc(2.275rem + .3vw);
 
     }
-
-    .navbar-nav {
-        margin-top: 6%;
-    }
-
     .navbar-nav {
         width: 100%;
         background-color: blue;
+        text-align: center;
+
     }
-    .img-hotel{
-        margin-top: 0%;
+    .navbar-toggler{
+        margin-top: -18%;
+    }
+    .navbar{
+        padding: 0%;
     }
 }
